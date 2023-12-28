@@ -5,6 +5,7 @@ const countries = {
     "bem-ZM": "Bemba",
     "bi-VU": "Bislama",
     "bjs-BB": "Bajan",
+    "sl-LK": "sinhala",
     "bn-IN": "Bengali",
     "bo-CN": "Tibetan",
     "br-FR": "Breton",
